@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.8922274516549414.webp",
+    "name": "Hat"
+  },
+  {
+    "id": "4",
+    "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.982861761466421.webp",
+    "name": "Pants"
+  },
+  {
+    "id": "7",
+    "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.614386823118695.webp",
+    "name": "Gloves"
+  },
+  {
+    "id": "10",
+    "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.5201574543904183.webp",
+    "name": "Tie"
+  },
+  {
+    "id": "13",
+    "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.8922274516549414.webp",
+    "name": "Vest"
+  }
+]

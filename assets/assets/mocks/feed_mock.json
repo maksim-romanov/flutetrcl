@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "1",
+    "likesCount": 4,
+    "commentsCount": 0,
+    "wardrobe": [
+      {
+        "id": "1",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.8922274516549414.webp",
+        "name": "Hat"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "2",
+    "likesCount": 9,
+    "commentsCount": 7,
+    "wardrobe": [
+      {
+        "id": "2",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.9904251095978692.webp",
+        "name": "Shirt"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "3",
+    "likesCount": 8,
+    "commentsCount": 4,
+    "wardrobe": [
+      {
+        "id": "3",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.07655455008242651.webp",
+        "name": "Jacket"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "4",
+    "likesCount": 4,
+    "commentsCount": 2,
+    "wardrobe": [
+      {
+        "id": "4",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.982861761466421.webp",
+        "name": "Pants"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "5",
+    "likesCount": 19,
+    "commentsCount": 13,
+    "wardrobe": [
+      {
+        "id": "5",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.07655455008242651.webp",
+        "name": "Shoes"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "6",
+    "likesCount": 2,
+    "commentsCount": 0,
+    "wardrobe": [
+      {
+        "id": "6",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.07655455008242651.webp",
+        "name": "Scarf"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "7",
+    "likesCount": 3,
+    "commentsCount": 6,
+    "wardrobe": [
+      {
+        "id": "7",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.614386823118695.webp",
+        "name": "Gloves"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "8",
+    "likesCount": 8,
+    "commentsCount": 0,
+    "wardrobe": [
+      {
+        "id": "8",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.9904251095978692.webp",
+        "name": "Belt"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "9",
+    "likesCount": 18,
+    "commentsCount": 6,
+    "wardrobe": [
+      {
+        "id": "9",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.5201574543904183.webp",
+        "name": "Socks"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "10",
+    "likesCount": 18,
+    "commentsCount": 13,
+    "wardrobe": [
+      {
+        "id": "10",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.5201574543904183.webp",
+        "name": "Tie"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "11",
+    "likesCount": 8,
+    "commentsCount": 14,
+    "wardrobe": [
+      {
+        "id": "11",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.07655455008242651.webp",
+        "name": "Cap"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "12",
+    "likesCount": 19,
+    "commentsCount": 8,
+    "wardrobe": [
+      {
+        "id": "12",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.9904251095978692.webp",
+        "name": "Sweater"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "13",
+    "likesCount": 1,
+    "commentsCount": 5,
+    "wardrobe": [
+      {
+        "id": "13",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.8922274516549414.webp",
+        "name": "Vest"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "14",
+    "likesCount": 14,
+    "commentsCount": 10,
+    "wardrobe": [
+      {
+        "id": "14",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.5201574543904183.webp",
+        "name": "Coat"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "15",
+    "likesCount": 9,
+    "commentsCount": 4,
+    "wardrobe": [
+      {
+        "id": "15",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.07655455008242651.webp",
+        "name": "Jeans"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "16",
+    "likesCount": 7,
+    "commentsCount": 10,
+    "wardrobe": [
+      {
+        "id": "16",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.7207362841817901.webp",
+        "name": "Sneakers"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "17",
+    "likesCount": 4,
+    "commentsCount": 2,
+    "wardrobe": [
+      {
+        "id": "17",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.614386823118695.webp",
+        "name": "Boots"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "18",
+    "likesCount": 13,
+    "commentsCount": 3,
+    "wardrobe": [
+      {
+        "id": "18",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.674297569290338.webp",
+        "name": "Blazer"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "19",
+    "likesCount": 12,
+    "commentsCount": 11,
+    "wardrobe": [
+      {
+        "id": "19",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.8922274516549414.webp",
+        "name": "Cardigan"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "20",
+    "likesCount": 20,
+    "commentsCount": 8,
+    "wardrobe": [
+      {
+        "id": "20",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.5201574543904183.webp",
+        "name": "T-shirt"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "21",
+    "likesCount": 2,
+    "commentsCount": 14,
+    "wardrobe": [
+      {
+        "id": "21",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.674297569290338.webp",
+        "name": "Hat"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "22",
+    "likesCount": 18,
+    "commentsCount": 3,
+    "wardrobe": [
+      {
+        "id": "22",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.2627220773639213.webp",
+        "name": "Shirt"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "23",
+    "likesCount": 13,
+    "commentsCount": 2,
+    "wardrobe": [
+      {
+        "id": "23",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.5201574543904183.webp",
+        "name": "Jacket"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "24",
+    "likesCount": 18,
+    "commentsCount": 9,
+    "wardrobe": [
+      {
+        "id": "24",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.4505254461766808.webp",
+        "name": "Pants"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "25",
+    "likesCount": 20,
+    "commentsCount": 11,
+    "wardrobe": [
+      {
+        "id": "25",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.7207362841817901.webp",
+        "name": "Shoes"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "26",
+    "likesCount": 19,
+    "commentsCount": 6,
+    "wardrobe": [
+      {
+        "id": "26",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.2627220773639213.webp",
+        "name": "Scarf"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "27",
+    "likesCount": 3,
+    "commentsCount": 1,
+    "wardrobe": [
+      {
+        "id": "27",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.614386823118695.webp",
+        "name": "Gloves"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "28",
+    "likesCount": 8,
+    "commentsCount": 9,
+    "wardrobe": [
+      {
+        "id": "28",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.614386823118695.webp",
+        "name": "Belt"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "29",
+    "likesCount": 3,
+    "commentsCount": 7,
+    "wardrobe": [
+      {
+        "id": "29",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.614386823118695.webp",
+        "name": "Socks"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "30",
+    "likesCount": 4,
+    "commentsCount": 12,
+    "wardrobe": [
+      {
+        "id": "30",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.8922274516549414.webp",
+        "name": "Tie"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "31",
+    "likesCount": 9,
+    "commentsCount": 14,
+    "wardrobe": [
+      {
+        "id": "31",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.8922274516549414.webp",
+        "name": "Cap"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "32",
+    "likesCount": 12,
+    "commentsCount": 5,
+    "wardrobe": [
+      {
+        "id": "32",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.2627220773639213.webp",
+        "name": "Sweater"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "33",
+    "likesCount": 12,
+    "commentsCount": 11,
+    "wardrobe": [
+      {
+        "id": "33",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.7207362841817901.webp",
+        "name": "Vest"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "34",
+    "likesCount": 7,
+    "commentsCount": 8,
+    "wardrobe": [
+      {
+        "id": "34",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.5201574543904183.webp",
+        "name": "Coat"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "35",
+    "likesCount": 3,
+    "commentsCount": 5,
+    "wardrobe": [
+      {
+        "id": "35",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.2627220773639213.webp",
+        "name": "Jeans"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "36",
+    "likesCount": 18,
+    "commentsCount": 7,
+    "wardrobe": [
+      {
+        "id": "36",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.7207362841817901.webp",
+        "name": "Sneakers"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "37",
+    "likesCount": 6,
+    "commentsCount": 14,
+    "wardrobe": [
+      {
+        "id": "37",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.2627220773639213.webp",
+        "name": "Boots"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "38",
+    "likesCount": 13,
+    "commentsCount": 8,
+    "wardrobe": [
+      {
+        "id": "38",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.07655455008242651.webp",
+        "name": "Blazer"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "39",
+    "likesCount": 18,
+    "commentsCount": 7,
+    "wardrobe": [
+      {
+        "id": "39",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.674297569290338.webp",
+        "name": "Cardigan"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "40",
+    "likesCount": 11,
+    "commentsCount": 1,
+    "wardrobe": [
+      {
+        "id": "40",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.5201574543904183.webp",
+        "name": "T-shirt"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "41",
+    "likesCount": 8,
+    "commentsCount": 1,
+    "wardrobe": [
+      {
+        "id": "41",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.982861761466421.webp",
+        "name": "Hat"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "42",
+    "likesCount": 11,
+    "commentsCount": 12,
+    "wardrobe": [
+      {
+        "id": "42",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.674297569290338.webp",
+        "name": "Shirt"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "43",
+    "likesCount": 9,
+    "commentsCount": 2,
+    "wardrobe": [
+      {
+        "id": "43",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.982861761466421.webp",
+        "name": "Jacket"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "44",
+    "likesCount": 7,
+    "commentsCount": 10,
+    "wardrobe": [
+      {
+        "id": "44",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.4505254461766808.webp",
+        "name": "Pants"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "45",
+    "likesCount": 7,
+    "commentsCount": 15,
+    "wardrobe": [
+      {
+        "id": "45",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.9904251095978692.webp",
+        "name": "Shoes"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "46",
+    "likesCount": 13,
+    "commentsCount": 14,
+    "wardrobe": [
+      {
+        "id": "46",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.5201574543904183.webp",
+        "name": "Scarf"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "47",
+    "likesCount": 5,
+    "commentsCount": 8,
+    "wardrobe": [
+      {
+        "id": "47",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.2627220773639213.webp",
+        "name": "Gloves"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "48",
+    "likesCount": 5,
+    "commentsCount": 7,
+    "wardrobe": [
+      {
+        "id": "48",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.982861761466421.webp",
+        "name": "Belt"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "49",
+    "likesCount": 18,
+    "commentsCount": 8,
+    "wardrobe": [
+      {
+        "id": "49",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.07655455008242651.webp",
+        "name": "Socks"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "50",
+    "likesCount": 19,
+    "commentsCount": 13,
+    "wardrobe": [
+      {
+        "id": "50",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.8922274516549414.webp",
+        "name": "Tie"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "51",
+    "likesCount": 19,
+    "commentsCount": 12,
+    "wardrobe": [
+      {
+        "id": "51",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.4505254461766808.webp",
+        "name": "Cap"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "52",
+    "likesCount": 12,
+    "commentsCount": 7,
+    "wardrobe": [
+      {
+        "id": "52",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.9904251095978692.webp",
+        "name": "Sweater"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "53",
+    "likesCount": 5,
+    "commentsCount": 15,
+    "wardrobe": [
+      {
+        "id": "53",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.8922274516549414.webp",
+        "name": "Vest"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "54",
+    "likesCount": 3,
+    "commentsCount": 1,
+    "wardrobe": [
+      {
+        "id": "54",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.982861761466421.webp",
+        "name": "Coat"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "55",
+    "likesCount": 4,
+    "commentsCount": 4,
+    "wardrobe": [
+      {
+        "id": "55",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.674297569290338.webp",
+        "name": "Jeans"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "56",
+    "likesCount": 6,
+    "commentsCount": 13,
+    "wardrobe": [
+      {
+        "id": "56",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.674297569290338.webp",
+        "name": "Sneakers"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "57",
+    "likesCount": 20,
+    "commentsCount": 2,
+    "wardrobe": [
+      {
+        "id": "57",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.614386823118695.webp",
+        "name": "Boots"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "58",
+    "likesCount": 13,
+    "commentsCount": 12,
+    "wardrobe": [
+      {
+        "id": "58",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.982861761466421.webp",
+        "name": "Blazer"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "59",
+    "likesCount": 20,
+    "commentsCount": 14,
+    "wardrobe": [
+      {
+        "id": "59",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.7207362841817901.webp",
+        "name": "Cardigan"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "60",
+    "likesCount": 17,
+    "commentsCount": 8,
+    "wardrobe": [
+      {
+        "id": "60",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.674297569290338.webp",
+        "name": "T-shirt"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "61",
+    "likesCount": 18,
+    "commentsCount": 0,
+    "wardrobe": [
+      {
+        "id": "61",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.982861761466421.webp",
+        "name": "Hat"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "62",
+    "likesCount": 4,
+    "commentsCount": 8,
+    "wardrobe": [
+      {
+        "id": "62",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.4505254461766808.webp",
+        "name": "Shirt"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "63",
+    "likesCount": 11,
+    "commentsCount": 3,
+    "wardrobe": [
+      {
+        "id": "63",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.5201574543904183.webp",
+        "name": "Jacket"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "64",
+    "likesCount": 10,
+    "commentsCount": 13,
+    "wardrobe": [
+      {
+        "id": "64",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.7207362841817901.webp",
+        "name": "Pants"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "65",
+    "likesCount": 6,
+    "commentsCount": 14,
+    "wardrobe": [
+      {
+        "id": "65",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.5201574543904183.webp",
+        "name": "Shoes"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "66",
+    "likesCount": 1,
+    "commentsCount": 8,
+    "wardrobe": [
+      {
+        "id": "66",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.8922274516549414.webp",
+        "name": "Scarf"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "67",
+    "likesCount": 17,
+    "commentsCount": 5,
+    "wardrobe": [
+      {
+        "id": "67",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.5201574543904183.webp",
+        "name": "Gloves"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "68",
+    "likesCount": 17,
+    "commentsCount": 3,
+    "wardrobe": [
+      {
+        "id": "68",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.4505254461766808.webp",
+        "name": "Belt"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "69",
+    "likesCount": 10,
+    "commentsCount": 6,
+    "wardrobe": [
+      {
+        "id": "69",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.4505254461766808.webp",
+        "name": "Socks"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "70",
+    "likesCount": 5,
+    "commentsCount": 11,
+    "wardrobe": [
+      {
+        "id": "70",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.982861761466421.webp",
+        "name": "Tie"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "71",
+    "likesCount": 6,
+    "commentsCount": 0,
+    "wardrobe": [
+      {
+        "id": "71",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.4505254461766808.webp",
+        "name": "Cap"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "72",
+    "likesCount": 20,
+    "commentsCount": 10,
+    "wardrobe": [
+      {
+        "id": "72",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.9904251095978692.webp",
+        "name": "Sweater"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "73",
+    "likesCount": 16,
+    "commentsCount": 0,
+    "wardrobe": [
+      {
+        "id": "73",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.7207362841817901.webp",
+        "name": "Vest"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "74",
+    "likesCount": 4,
+    "commentsCount": 11,
+    "wardrobe": [
+      {
+        "id": "74",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.8922274516549414.webp",
+        "name": "Coat"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "75",
+    "likesCount": 10,
+    "commentsCount": 7,
+    "wardrobe": [
+      {
+        "id": "75",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.4505254461766808.webp",
+        "name": "Jeans"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "76",
+    "likesCount": 2,
+    "commentsCount": 7,
+    "wardrobe": [
+      {
+        "id": "76",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.7207362841817901.webp",
+        "name": "Sneakers"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "77",
+    "likesCount": 19,
+    "commentsCount": 2,
+    "wardrobe": [
+      {
+        "id": "77",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.2627220773639213.webp",
+        "name": "Boots"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "78",
+    "likesCount": 3,
+    "commentsCount": 15,
+    "wardrobe": [
+      {
+        "id": "78",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.7207362841817901.webp",
+        "name": "Blazer"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "79",
+    "likesCount": 3,
+    "commentsCount": 4,
+    "wardrobe": [
+      {
+        "id": "79",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.7207362841817901.webp",
+        "name": "Cardigan"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "80",
+    "likesCount": 5,
+    "commentsCount": 15,
+    "wardrobe": [
+      {
+        "id": "80",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.982861761466421.webp",
+        "name": "T-shirt"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "81",
+    "likesCount": 18,
+    "commentsCount": 5,
+    "wardrobe": [
+      {
+        "id": "81",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.614386823118695.webp",
+        "name": "Hat"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "82",
+    "likesCount": 9,
+    "commentsCount": 13,
+    "wardrobe": [
+      {
+        "id": "82",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.982861761466421.webp",
+        "name": "Shirt"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "83",
+    "likesCount": 7,
+    "commentsCount": 6,
+    "wardrobe": [
+      {
+        "id": "83",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.2627220773639213.webp",
+        "name": "Jacket"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "84",
+    "likesCount": 10,
+    "commentsCount": 12,
+    "wardrobe": [
+      {
+        "id": "84",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.9904251095978692.webp",
+        "name": "Pants"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "85",
+    "likesCount": 12,
+    "commentsCount": 14,
+    "wardrobe": [
+      {
+        "id": "85",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.614386823118695.webp",
+        "name": "Shoes"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "86",
+    "likesCount": 17,
+    "commentsCount": 14,
+    "wardrobe": [
+      {
+        "id": "86",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.8922274516549414.webp",
+        "name": "Scarf"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "87",
+    "likesCount": 4,
+    "commentsCount": 7,
+    "wardrobe": [
+      {
+        "id": "87",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.614386823118695.webp",
+        "name": "Gloves"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "88",
+    "likesCount": 8,
+    "commentsCount": 2,
+    "wardrobe": [
+      {
+        "id": "88",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.07655455008242651.webp",
+        "name": "Belt"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "89",
+    "likesCount": 11,
+    "commentsCount": 0,
+    "wardrobe": [
+      {
+        "id": "89",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.9904251095978692.webp",
+        "name": "Socks"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "90",
+    "likesCount": 19,
+    "commentsCount": 7,
+    "wardrobe": [
+      {
+        "id": "90",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.07655455008242651.webp",
+        "name": "Tie"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "91",
+    "likesCount": 19,
+    "commentsCount": 7,
+    "wardrobe": [
+      {
+        "id": "91",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.674297569290338.webp",
+        "name": "Cap"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "92",
+    "likesCount": 1,
+    "commentsCount": 2,
+    "wardrobe": [
+      {
+        "id": "92",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.8922274516549414.webp",
+        "name": "Sweater"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "93",
+    "likesCount": 2,
+    "commentsCount": 7,
+    "wardrobe": [
+      {
+        "id": "93",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.7207362841817901.webp",
+        "name": "Vest"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "94",
+    "likesCount": 3,
+    "commentsCount": 1,
+    "wardrobe": [
+      {
+        "id": "94",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.614386823118695.webp",
+        "name": "Coat"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "95",
+    "likesCount": 11,
+    "commentsCount": 2,
+    "wardrobe": [
+      {
+        "id": "95",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.4505254461766808.webp",
+        "name": "Jeans"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "96",
+    "likesCount": 17,
+    "commentsCount": 7,
+    "wardrobe": [
+      {
+        "id": "96",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.982861761466421.webp",
+        "name": "Sneakers"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "97",
+    "likesCount": 9,
+    "commentsCount": 15,
+    "wardrobe": [
+      {
+        "id": "97",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.4505254461766808.webp",
+        "name": "Boots"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "98",
+    "likesCount": 7,
+    "commentsCount": 4,
+    "wardrobe": [
+      {
+        "id": "98",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.2627220773639213.webp",
+        "name": "Blazer"
+      }
+    ],
+    "author": {
+      "id": "2",
+      "name": "Jane Doe",
+      "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
+    }
+  },
+  {
+    "id": "99",
+    "likesCount": 19,
+    "commentsCount": 15,
+    "wardrobe": [
+      {
+        "id": "99",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.4505254461766808.webp",
+        "name": "Cardigan"
+      }
+    ],
+    "author": {
+      "id": "3",
+      "name": "John Smith",
+      "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
+    }
+  },
+  {
+    "id": "100",
+    "likesCount": 8,
+    "commentsCount": 15,
+    "wardrobe": [
+      {
+        "id": "100",
+        "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.674297569290338.webp",
+        "name": "T-shirt"
+      }
+    ],
+    "author": {
+      "id": "1",
+      "name": "Maksim Romanov",
+      "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  }
+]
