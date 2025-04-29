@@ -1,7 +1,7 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
 
-import './post_image.dart';
-import './user.dart';
+import 'post_image.dart';
+import 'user.dart';
 
 part 'post.freezed.dart';
 part 'post.g.dart';

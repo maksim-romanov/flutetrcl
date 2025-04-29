@@ -1,5 +1,6 @@
 import 'package:go_router/go_router.dart';
 import 'package:flutter/material.dart';
+import 'package:test_routing/screens/feed_screen.dart';
 
 import './screens/initial_screens.dart';
 
@@ -9,9 +10,9 @@ class AppNavigation {
 
   static final config = GoRouter(
     navigatorKey: _rootNavigatorKey,
+    initialLocation: '/wardrobe',
     routes: [
-      GoRoute(path: '/', builder: (context, state) => HomeScreen()),
-
+      // GoRoute(path: '/', builder: (context, state) => HomeScreen()),
       GoRoute(
         path: '/posts/:postId',
         pageBuilder:
