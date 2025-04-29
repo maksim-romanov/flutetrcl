@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:test_routing/providers/post_notifier.dart';
-import 'package:test_routing/screens/post_screen/post_actions.dart';
-import 'package:test_routing/screens/post_screen/post_info.dart';
 import 'package:test_routing/widgets/wardrobe_image.dart';
+
+import './widgets/post_actions.dart';
+import './widgets/post_info.dart';
 
 class PostScreen extends ConsumerWidget {
   final String postId;

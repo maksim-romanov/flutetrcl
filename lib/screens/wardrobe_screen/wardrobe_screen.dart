@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:test_routing/providers/my_posts_notifier.dart';
-import 'package:test_routing/screens/wardrobe_screen/my_posts.dart';
-import 'package:test_routing/screens/wardrobe_screen/recently_added_posts.dart';
+import 'package:test_routing/screens/wardrobe_screen/widgets/my_posts.dart';
+import 'package:test_routing/screens/wardrobe_screen/widgets/recently_added_posts.dart';
 import 'package:test_routing/widgets/blured_app_bar.dart';
 
 class WardrobeScreen extends ConsumerWidget {

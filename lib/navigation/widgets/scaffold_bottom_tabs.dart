@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
-class ScaffoldWithNavbar extends StatelessWidget {
-  const ScaffoldWithNavbar(this.navigationShell, {super.key});
+class ScaffoldBottomTabs extends StatelessWidget {
+  const ScaffoldBottomTabs(this.navigationShell, {super.key});
 
   /// The navigation shell and container for the branch Navigators.
   final StatefulNavigationShell navigationShell;

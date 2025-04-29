@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:test_routing/models/post.dart';
-import 'package:test_routing/screens/feed_screen/post_card.dart';
+import 'package:test_routing/screens/feed_screen/widgets/post_card.dart';
 
 class PostsList extends StatelessWidget {
   const PostsList({super.key, required this.posts});

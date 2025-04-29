@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:test_routing/models/post.dart';
-import 'package:test_routing/screens/wardrobe_screen/post_image.dart';
+import 'package:test_routing/screens/wardrobe_screen/widgets/post_image.dart';
 
 class RecentlyAddedPostsWidget extends StatelessWidget {
   const RecentlyAddedPostsWidget({super.key, required this.posts});

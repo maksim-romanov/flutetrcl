@@ -1,11 +1,11 @@
-import 'package:go_router/go_router.dart';
 import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
 import 'package:test_routing/screens/feed_screen/feed_screen.dart';
 import 'package:test_routing/screens/post_screen/post_screen.dart';
 import 'package:test_routing/screens/profile_screen.dart';
 import 'package:test_routing/screens/wardrobe_screen/wardrobe_screen.dart';
 
-import './screens/initial_screens.dart';
+import './widgets/scaffold_bottom_tabs.dart';
 
 class AppNavigation {
   static final _rootNavigatorKey = GlobalKey<NavigatorState>();
@@ -27,7 +27,7 @@ class AppNavigation {
       ),
 
       StatefulShellRoute.indexedStack(
-        builder: (context, state, navigationShell) => ScaffoldWithNavbar(navigationShell),
+        builder: (context, state, navigationShell) => ScaffoldBottomTabs(navigationShell),
         branches: [
           StatefulShellBranch(
             navigatorKey: _sectionNavigatorKey,

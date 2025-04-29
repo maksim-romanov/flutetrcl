@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:test_routing/core/theme/app_theme.dart';
-import 'package:test_routing/navigation.dart';
+
+import './navigation/navigation.dart';
 
 void main() {
   runApp(ProviderScope(child: const MyApp()));

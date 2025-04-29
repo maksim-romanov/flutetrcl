@@ -1,14 +1,18 @@
 import 'package:flutter/material.dart';
+import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:test_routing/models/post.dart';
+import 'package:test_routing/providers/post_notifier.dart';
 
-class PostActionsWidget extends StatelessWidget {
+class PostActionsWidget extends ConsumerWidget {
   const PostActionsWidget({super.key, required this.child, required this.post});
 
   final Widget child;
   final Post post;
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context, WidgetRef ref) {
+    final notifier = ref.read(postNotifierProvider(post.id).notifier);
+
     return Stack(
       fit: StackFit.expand,
       children: [
@@ -19,8 +23,15 @@ class PostActionsWidget extends StatelessWidget {
           child: Column(
             mainAxisSize: MainAxisSize.min,
             children: [
-              Icon(Icons.favorite_border, color: Theme.of(context).colorScheme.outline, size: 21),
-              Text(post.likesCount.toString()),
+              GestureDetector(
+                onTap: notifier.likePost,
+                child: Column(
+                  children: [
+                    Icon(Icons.favorite_border, color: Theme.of(context).colorScheme.outline, size: 21),
+                    Text(post.likesCount.toString()),
+                  ],
+                ),
+              ),
 
               SizedBox(height: 16),
 

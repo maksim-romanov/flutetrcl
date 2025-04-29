@@ -2,8 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:test_routing/core/providers/custom_scroll_controller_provider.dart';
 import 'package:test_routing/providers/posts_notifier.dart';
-import 'package:test_routing/screens/feed_screen/posts_list.dart';
 import 'package:test_routing/widgets/blured_app_bar.dart';
+
+import './widgets/posts_list.dart';
 
 class FeedScreen extends ConsumerWidget {
   const FeedScreen({super.key});

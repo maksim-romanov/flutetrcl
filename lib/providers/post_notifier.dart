@@ -15,6 +15,10 @@ class PostNotifier extends _$PostNotifier {
     return ref.read(postRepositoryProvider).fetchPost(id);
   }
 
+  likePost() {
+    state = state.whenData((post) => post.copyWith(likesCount: post.likesCount + 1));
+  }
+
   // update post
 
   // add comment
