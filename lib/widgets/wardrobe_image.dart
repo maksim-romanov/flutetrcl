@@ -8,6 +8,6 @@ class WardrobeImageWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Expanded(child: Center(child: Image.network(image.imageUrl, fit: BoxFit.fill)));
+    return Center(child: Image.network(image.imageUrl, fit: BoxFit.fill));
   }
 }

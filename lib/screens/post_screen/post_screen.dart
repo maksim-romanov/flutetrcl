@@ -26,7 +26,7 @@ class PostScreen extends ConsumerWidget {
                   post: post,
                   child: Column(
                     children: [
-                      WardrobeImageWidget(image: post.image),
+                      Expanded(child: WardrobeImageWidget(image: post.image)),
                       const SizedBox(height: 32),
                       PostInfoWidget(post: post),
                       //

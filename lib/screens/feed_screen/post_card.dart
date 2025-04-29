@@ -17,7 +17,7 @@ class PostCard extends StatelessWidget {
       shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
       child: Column(
         children: [
-          WardrobeImageWidget(image: image),
+          Expanded(child: WardrobeImageWidget(image: image)),
 
           // Author and interaction section
           Padding(padding: const EdgeInsets.all(12), child: PostCardInfo(post: post)),
