@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
+import 'package:test_routing/core/theme/app_theme.dart';
 import 'package:test_routing/navigation.dart';
 
 void main() {
@@ -11,9 +12,6 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp.router(
-      theme: ThemeData(colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple)),
-      routerConfig: AppNavigation.config,
-    );
+    return MaterialApp.router(theme: AppTheme.lightTheme, routerConfig: AppNavigation.config);
   }
 }

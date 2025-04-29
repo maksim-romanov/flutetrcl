@@ -19,7 +19,7 @@ class AppNavigation {
         pageBuilder:
             (context, state) => MaterialPage(
               key: state.pageKey,
-              fullscreenDialog: true,
+              // fullscreenDialog: true,
               child: PostScreen(postId: state.pathParameters['postId']!),
             ),
       ),

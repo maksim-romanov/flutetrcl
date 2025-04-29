@@ -23,6 +23,7 @@ class PostScreen extends ConsumerWidget {
               padding: const EdgeInsets.all(16.0),
               child: SafeArea(
                 child: PostActionsWidget(
+                  post: post,
                   child: Column(
                     children: [
                       WardrobeImageWidget(image: post.image),
