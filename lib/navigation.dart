@@ -1,6 +1,6 @@
 import 'package:go_router/go_router.dart';
 import 'package:flutter/material.dart';
-import 'package:test_routing/screens/feed_screen.dart';
+import 'package:test_routing/screens/feed_screen/feed_screen.dart';
 
 import './screens/initial_screens.dart';
 

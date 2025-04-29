@@ -8,7 +8,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "1",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.8922274516549414.webp",
       "text": "Vacation Style"
@@ -23,7 +23,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "2",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.9904251095978692.webp",
       "text": "Work Vibe"
@@ -38,7 +38,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "3",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.07655455008242651.webp",
       "text": "Urban Explorer"
@@ -53,7 +53,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "4",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.982861761466421.webp",
       "text": "Weekend Casual"
@@ -68,7 +68,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "5",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.07655455008242651.webp",
       "text": "Street Fashion"
@@ -83,7 +83,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "6",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.07655455008242651.webp",
       "text": "Autumn Layers"
@@ -98,7 +98,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "7",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.614386823118695.webp",
       "text": "Winter Warmth"
@@ -113,7 +113,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "8",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.9904251095978692.webp",
       "text": "Office Formal"
@@ -128,7 +128,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "9",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.5201574543904183.webp",
       "text": "Athleisure Comfort"
@@ -143,7 +143,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "10",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.5201574543904183.webp",
       "text": "Professional Edge"
@@ -158,7 +158,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "11",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.07655455008242651.webp",
       "text": "Sporty Look"
@@ -173,7 +173,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "12",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.9904251095978692.webp",
       "text": "Cozy Comfort"
@@ -188,7 +188,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "13",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.8922274516549414.webp",
       "text": "Layered Chic"
@@ -203,7 +203,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "14",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.5201574543904183.webp",
       "text": "City Winter"
@@ -218,7 +218,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "15",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.07655455008242651.webp",
       "text": "Denim Classic"
@@ -233,7 +233,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "16",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.7207362841817901.webp",
       "text": "Sporty Casual"
@@ -248,7 +248,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "17",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.614386823118695.webp",
       "text": "Rugged Adventure"
@@ -263,7 +263,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "18",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.674297569290338.webp",
       "text": "Business Casual"
@@ -278,7 +278,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "19",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.8922274516549414.webp",
       "text": "Smart Layering"
@@ -293,7 +293,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "20",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.5201574543904183.webp",
       "text": "Everyday Essential"
@@ -308,7 +308,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "21",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.674297569290338.webp",
       "text": "Vacation Style"
@@ -323,7 +323,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "22",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.2627220773639213.webp",
       "text": "Work Vibe"
@@ -338,7 +338,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "23",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.5201574543904183.webp",
       "text": "Urban Explorer"
@@ -353,7 +353,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "24",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.4505254461766808.webp",
       "text": "Weekend Casual"
@@ -368,7 +368,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "25",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.7207362841817901.webp",
       "text": "Street Fashion"
@@ -383,7 +383,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "26",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.2627220773639213.webp",
       "text": "Autumn Layers"
@@ -398,7 +398,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "27",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.614386823118695.webp",
       "text": "Winter Warmth"
@@ -413,7 +413,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "28",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.614386823118695.webp",
       "text": "Office Formal"
@@ -428,7 +428,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "29",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.614386823118695.webp",
       "text": "Athleisure Comfort"
@@ -443,7 +443,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "30",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.8922274516549414.webp",
       "text": "Professional Edge"
@@ -458,7 +458,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "31",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.8922274516549414.webp",
       "text": "Sporty Look"
@@ -473,7 +473,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "32",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.2627220773639213.webp",
       "text": "Cozy Comfort"
@@ -488,7 +488,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "33",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.7207362841817901.webp",
       "text": "Layered Chic"
@@ -503,7 +503,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "34",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.5201574543904183.webp",
       "text": "City Winter"
@@ -518,7 +518,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "35",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.2627220773639213.webp",
       "text": "Denim Classic"
@@ -533,7 +533,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "36",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.7207362841817901.webp",
       "text": "Sporty Casual"
@@ -548,7 +548,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "37",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.2627220773639213.webp",
       "text": "Rugged Adventure"
@@ -563,7 +563,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "38",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.07655455008242651.webp",
       "text": "Business Casual"
@@ -578,7 +578,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "39",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.674297569290338.webp",
       "text": "Smart Layering"
@@ -593,7 +593,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "40",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.5201574543904183.webp",
       "text": "Everyday Essential"
@@ -608,7 +608,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "41",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.982861761466421.webp",
       "text": "Vacation Style"
@@ -623,7 +623,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "42",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.674297569290338.webp",
       "text": "Work Vibe"
@@ -638,7 +638,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "43",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.982861761466421.webp",
       "text": "Urban Explorer"
@@ -653,7 +653,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "44",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.4505254461766808.webp",
       "text": "Weekend Casual"
@@ -668,7 +668,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "45",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.9904251095978692.webp",
       "text": "Street Fashion"
@@ -683,7 +683,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "46",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.5201574543904183.webp",
       "text": "Autumn Layers"
@@ -698,7 +698,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "47",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.2627220773639213.webp",
       "text": "Winter Warmth"
@@ -713,7 +713,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "48",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.982861761466421.webp",
       "text": "Office Formal"
@@ -728,7 +728,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "49",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.07655455008242651.webp",
       "text": "Athleisure Comfort"
@@ -743,7 +743,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "50",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.8922274516549414.webp",
       "text": "Professional Edge"
@@ -758,7 +758,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "51",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.4505254461766808.webp",
       "text": "Sporty Look"
@@ -773,7 +773,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "52",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.9904251095978692.webp",
       "text": "Cozy Comfort"
@@ -788,7 +788,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "53",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.8922274516549414.webp",
       "text": "Layered Chic"
@@ -803,7 +803,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "54",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.982861761466421.webp",
       "text": "City Winter"
@@ -818,7 +818,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "55",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.674297569290338.webp",
       "text": "Denim Classic"
@@ -833,7 +833,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "56",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.674297569290338.webp",
       "text": "Sporty Casual"
@@ -848,7 +848,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "57",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.614386823118695.webp",
       "text": "Rugged Adventure"
@@ -863,7 +863,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "58",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.982861761466421.webp",
       "text": "Business Casual"
@@ -878,7 +878,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "59",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.7207362841817901.webp",
       "text": "Smart Layering"
@@ -893,7 +893,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "60",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.674297569290338.webp",
       "text": "Everyday Essential"
@@ -908,7 +908,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "61",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.982861761466421.webp",
       "text": "Vacation Style"
@@ -923,7 +923,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "62",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.4505254461766808.webp",
       "text": "Work Vibe"
@@ -938,7 +938,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "63",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.5201574543904183.webp",
       "text": "Urban Explorer"
@@ -953,7 +953,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "64",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.7207362841817901.webp",
       "text": "Weekend Casual"
@@ -968,7 +968,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "65",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.5201574543904183.webp",
       "text": "Street Fashion"
@@ -983,7 +983,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "66",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.8922274516549414.webp",
       "text": "Autumn Layers"
@@ -998,7 +998,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "67",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.5201574543904183.webp",
       "text": "Winter Warmth"
@@ -1013,7 +1013,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "68",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.4505254461766808.webp",
       "text": "Office Formal"
@@ -1028,7 +1028,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "69",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.4505254461766808.webp",
       "text": "Athleisure Comfort"
@@ -1043,7 +1043,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "70",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.982861761466421.webp",
       "text": "Professional Edge"
@@ -1058,7 +1058,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "71",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.4505254461766808.webp",
       "text": "Sporty Look"
@@ -1073,7 +1073,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "72",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.9904251095978692.webp",
       "text": "Cozy Comfort"
@@ -1088,7 +1088,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "73",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.7207362841817901.webp",
       "text": "Layered Chic"
@@ -1103,7 +1103,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "74",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.8922274516549414.webp",
       "text": "City Winter"
@@ -1118,7 +1118,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "75",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.4505254461766808.webp",
       "text": "Denim Classic"
@@ -1133,7 +1133,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "76",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.7207362841817901.webp",
       "text": "Sporty Casual"
@@ -1148,7 +1148,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "77",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.2627220773639213.webp",
       "text": "Rugged Adventure"
@@ -1163,7 +1163,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "78",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.7207362841817901.webp",
       "text": "Business Casual"
@@ -1178,7 +1178,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "79",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.7207362841817901.webp",
       "text": "Smart Layering"
@@ -1193,7 +1193,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "80",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.982861761466421.webp",
       "text": "Everyday Essential"
@@ -1208,7 +1208,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "81",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.614386823118695.webp",
       "text": "Vacation Style"
@@ -1223,7 +1223,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "82",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.982861761466421.webp",
       "text": "Work Vibe"
@@ -1238,7 +1238,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "83",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.2627220773639213.webp",
       "text": "Urban Explorer"
@@ -1253,7 +1253,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "84",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.9904251095978692.webp",
       "text": "Weekend Casual"
@@ -1268,7 +1268,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "85",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.614386823118695.webp",
       "text": "Street Fashion"
@@ -1283,7 +1283,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "86",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.8922274516549414.webp",
       "text": "Autumn Layers"
@@ -1298,7 +1298,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "87",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.614386823118695.webp",
       "text": "Winter Warmth"
@@ -1313,7 +1313,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "88",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.07655455008242651.webp",
       "text": "Office Formal"
@@ -1328,7 +1328,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "89",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.9904251095978692.webp",
       "text": "Athleisure Comfort"
@@ -1343,7 +1343,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "90",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.07655455008242651.webp",
       "text": "Professional Edge"
@@ -1358,7 +1358,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "91",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.674297569290338.webp",
       "text": "Sporty Look"
@@ -1373,7 +1373,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "92",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.8922274516549414.webp",
       "text": "Cozy Comfort"
@@ -1388,7 +1388,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "93",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.7207362841817901.webp",
       "text": "Layered Chic"
@@ -1403,7 +1403,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "94",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.614386823118695.webp",
       "text": "City Winter"
@@ -1418,7 +1418,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "95",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.4505254461766808.webp",
       "text": "Denim Classic"
@@ -1433,7 +1433,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "96",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.982861761466421.webp",
       "text": "Sporty Casual"
@@ -1448,7 +1448,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "97",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.4505254461766808.webp",
       "text": "Rugged Adventure"
@@ -1463,7 +1463,7 @@
       "name": "Jane Doe",
       "avatarUrl": "https://picsum.photos/seed/avatar2/100/100"
     },
-    "images": {
+    "image": {
       "id": "98",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.2627220773639213.webp",
       "text": "Business Casual"
@@ -1478,7 +1478,7 @@
       "name": "John Smith",
       "avatarUrl": "https://picsum.photos/seed/avatar3/100/100"
     },
-    "images": {
+    "image": {
       "id": "99",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.4505254461766808.webp",
       "text": "Smart Layering"
@@ -1493,7 +1493,7 @@
       "name": "Maksim Romanov",
       "avatarUrl": "https://picsum.photos/seed/avatar1/100/100"
     },
-    "images": {
+    "image": {
       "id": "100",
       "imageUrl": "https://rciskacerdjenqpbqxkm.supabase.co/storage/v1/object/public/outfits/0.674297569290338.webp",
       "text": "Everyday Essential"

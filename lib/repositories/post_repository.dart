@@ -9,7 +9,8 @@ class PostRepository {
   Future<List<Post>> fetchPosts() async {
     final resp = await _dio.get('/posts');
     final data = resp.data as List<dynamic>;
-    return data.map((json) => Post.fromJson(json as Map<String, dynamic>)).toList();
+    final res = data.map((json) => Post.fromJson(json as Map<String, dynamic>)).toList();
+    return res;
   }
 
   Future<Post> fetchPost(String id) async {

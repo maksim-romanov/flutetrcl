@@ -11,7 +11,7 @@ abstract class Post with _$Post {
   const factory Post({
     required String id,
     required User author,
-    required List<PostImage> images,
+    required PostImage image,
 
     @Default(0) int likesCount,
     @Default(0) int commentsCount,
