@@ -1,17 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
-class PostScreen extends StatelessWidget {
-  const PostScreen({super.key, required this.postId});
-
-  final String postId;
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(appBar: AppBar(title: Text('Settings page')), body: Center(child: Text('settings $postId')));
-  }
-}
-
 class WardrobeScreen extends StatelessWidget {
   const WardrobeScreen({super.key});
 

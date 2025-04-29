@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
 import 'package:test_routing/models/post.dart';
 import 'package:test_routing/screens/feed_screen/post_card.dart';
 
@@ -25,6 +26,7 @@ class PostsList extends StatelessWidget {
 
             return GestureDetector(
               onTap: () {
+                context.push('/posts/${post.id}');
                 // context.router.navigate(PostRoute(postId: item.id));
               },
               child: PostCard(post: post),
