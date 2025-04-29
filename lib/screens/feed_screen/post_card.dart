@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:test_routing/models/post.dart';
+import 'package:test_routing/widgets/wardrobe_image.dart';
 
 class PostCard extends StatelessWidget {
   final Post post;
@@ -16,8 +17,7 @@ class PostCard extends StatelessWidget {
       shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
       child: Column(
         children: [
-          // Image section
-          Expanded(child: Image.network(image.imageUrl, fit: BoxFit.cover)),
+          WardrobeImageWidget(image: image),
 
           // Author and interaction section
           Padding(padding: const EdgeInsets.all(12), child: PostCardInfo(post: post)),

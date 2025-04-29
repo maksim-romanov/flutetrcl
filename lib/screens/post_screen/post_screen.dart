@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:test_routing/providers/post_notifier.dart';
 import 'package:test_routing/screens/post_screen/post_actions.dart';
-import 'package:test_routing/screens/post_screen/post_image.dart';
 import 'package:test_routing/screens/post_screen/post_info.dart';
+import 'package:test_routing/widgets/wardrobe_image.dart';
 
 class PostScreen extends ConsumerWidget {
   final String postId;
@@ -25,7 +25,8 @@ class PostScreen extends ConsumerWidget {
                 child: PostActionsWidget(
                   child: Column(
                     children: [
-                      PostImageWidget(image: post.image),
+                      WardrobeImageWidget(image: post.image),
+                      const SizedBox(height: 32),
                       PostInfoWidget(post: post),
                       //
                     ],
