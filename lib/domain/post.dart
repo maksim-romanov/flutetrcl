@@ -1,18 +1,21 @@
+import 'package:freezed_annotation/freezed_annotation.dart';
+
 import './post_image.dart';
 import './user.dart';
 
-class Post {
-  Post({
-    required this.id,
-    required this.likesCount,
-    required this.commentsCount,
-    required this.images,
-    required this.author,
-  });
+part 'post.freezed.dart';
+part 'post.g.dart';
 
-  final String id;
-  final int likesCount;
-  final int commentsCount;
-  final List<PostImage> images;
-  final User author;
+@freezed
+abstract class Post with _$Post {
+  const factory Post({
+    required String id,
+    required User author,
+    required List<PostImage> images,
+
+    @Default(0) int likesCount,
+    @Default(0) int commentsCount,
+  }) = _Post;
+
+  factory Post.fromJson(Map<String, dynamic> json) => _$PostFromJson(json);
 }
