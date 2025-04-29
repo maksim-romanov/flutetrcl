@@ -17,7 +17,7 @@ class DioClient extends _$DioClient {
   @override
   Dio build() {
     final dio = Dio(options);
-    dio.interceptors.addAll(interceptors);
+    // dio.interceptors.addAll(interceptors);
     return dio;
   }
 }
