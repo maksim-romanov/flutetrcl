@@ -1,25 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
-class WardrobeScreen extends StatelessWidget {
-  const WardrobeScreen({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(title: Text('Wardrobe page')),
-      body: Center(
-        child: GestureDetector(
-          onTap: () {
-            context.push('/wardrobe/info');
-          },
-          child: Text('wardrobe'),
-        ),
-      ),
-    );
-  }
-}
-
 class ScaffoldWithNavbar extends StatelessWidget {
   const ScaffoldWithNavbar(this.navigationShell, {super.key});
 
