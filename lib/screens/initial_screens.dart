@@ -14,8 +14,9 @@ class ScaffoldWithNavbar extends StatelessWidget {
       bottomNavigationBar: BottomNavigationBar(
         currentIndex: navigationShell.currentIndex,
         items: const [
-          BottomNavigationBarItem(icon: Icon(Icons.checkroom), label: 'Wardrobe'),
-          BottomNavigationBarItem(icon: Icon(Icons.feed), label: 'Feed'),
+          BottomNavigationBarItem(icon: SizedBox.shrink(), label: 'Wardrobe'),
+          BottomNavigationBarItem(icon: SizedBox.shrink(), label: 'Feed'),
+          BottomNavigationBarItem(icon: SizedBox.shrink(), label: 'Profile'),
         ],
         onTap: _onTap,
       ),
